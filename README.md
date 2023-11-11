@@ -99,4 +99,3 @@ Specify the license under which NumPy is distributed.
 
 ```
 
-This template provides a basic introduction to NumPy, its installation, and some fundamental concepts. Customize it as needed for your project or learning materials.
