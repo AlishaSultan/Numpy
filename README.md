@@ -81,14 +81,6 @@ NumPy arrays enable broadcasting, allowing operations on arrays of different sha
 arr_broadcasted = arr_2d + np.array([10, 20, 30])
 ```
 
-## Examples
-
-Include practical examples to demonstrate the use of NumPy in various scenarios.
-
-```python
-# Your example code here
-```
-
 ## Contributing
 
 If you want to contribute to NumPy, please follow the contribution guidelines.
@@ -97,5 +89,5 @@ If you want to contribute to NumPy, please follow the contribution guidelines.
 
 Specify the license under which NumPy is distributed.
 
-```
+
 
